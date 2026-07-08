@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Vectores" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 384">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2563eb;
+        stroke-width: 0px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke: #2563eb;
+        stroke-miterlimit: 10;
+        stroke-width: 14px;
+      }
+
+      .cls-3 {
+        stroke-linecap: round;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="80.57" cy="63.24" r="15.08"/>
+  <circle class="cls-1" cx="142.6" cy="63.24" r="15.08"/>
+  <path class="cls-3" d="m151.1,66.63c9.35,0,16.93,7.58,16.93,16.93v69.25c0,25.87-20.97,46.84-46.84,46.84h-18.57c-25.87,0-46.84-20.97-46.84-46.84v-69.25c0-9.35,7.58-16.93,16.93-16.93"/>
+  <path class="cls-2" d="m215.28,200.11v61.23c0,28.37-23,51.37-51.37,51.37h0c-28.37,0-51.37-23-51.37-51.37v-61.71"/>
+  <path class="cls-2" d="m215.28,260.95v-70.89c0-22.37,18.14-40.51,40.51-40.51h0c22.37,0,40.51,18.14,40.51,40.51v45.39"/>
+  <circle class="cls-2" cx="296.29" cy="272.02" r="32.69"/>
+  <circle class="cls-1" cx="296.29" cy="272.02" r="8.52"/>
+  <path class="cls-3" d="m135,128.58v17.55c0,12.7-10.3,23-23,23h0c-12.7,0-23-10.3-23-23v-17.22"/>
+</svg>
